@@ -20,7 +20,7 @@ python main.py
 
 Insert your desired directory, per example:
 ```
-A:\Users\Heisenberg\Desktop\Youtube\output
+A:\Users\Heisenberg\Desktop\
 ```
 
 After that, the program will ask you for the youtube link, and here's an example:
@@ -28,9 +28,7 @@ After that, the program will ask you for the youtube link, and here's an example
 https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran
 ```
 
-As of now, you should have your music in your folder!
-
-There is a .txt file (which you can remove once you have the project in your computer) in the output folder, so that Github let's me create these "empty" folders in the project
+As of now, you should have your music!
 
 
 # Special Thanks 💖
